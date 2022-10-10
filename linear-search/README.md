@@ -20,5 +20,7 @@ set loc = i
 Exit
 endif
 endfor
+set loc = -1
 End
+
 ```
