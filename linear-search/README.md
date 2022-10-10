@@ -10,6 +10,9 @@ Linear search algorithm works as follow
 2 - If the first element is what you're looking for, stop .
 3 - Otherwise move to the next element and keep going until you find the element, or you don't.
 
+Time Complexity of Linear Search Algorithm is O(n).
+Here, n is the number of elements in the linear array.
+
 # 3-1 Linsear Search Pseudocode
 
 ```
